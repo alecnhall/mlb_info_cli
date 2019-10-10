@@ -1,6 +1,4 @@
-require "mlb_info/version"
-
-module MlbInfo
-  class Error < StandardError; end
-  # Your code goes here...
+module MLBInfo
 end
+
+require_relative '../config/environment'
