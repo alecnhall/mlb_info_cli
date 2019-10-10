@@ -22,7 +22,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+When the program starts it will prompt a menu with three input options and instructions for what options will do:
+
+teams - This option will give a list of all Major League Baseball teams. If a user does not know any Major League Baseball teams this is a good way to find which team you would like more information about.
+
+team name - If a user has a team in mind they can enter that team name and return the website for that team as well as the name of the field that they play their home games at.
+
+exit - This input will allow the user to leave the program and return a message thanking the user for using the program and say "GO ASTROS" cause thats my favorite team ;)
+
+If a user enters any input that is not recognized it will return a message asking for a correct input that corresponds with the options above.
+
+I hope you enjoy this! I know it's not the most complex of programs but I would love input on how to expand its capabilities. I thought about maybe adding a players class to list all of the players on the roster and maybe having stat attributes for each player. This is just one idea, so please feel free to play with this as much as possible!
+
+
 
 ## Development
 
